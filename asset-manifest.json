@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tossgame/static/css/main.f9b02786.chunk.css",
+    "main.js": "/tossgame/static/js/main.d225bee2.chunk.js",
+    "main.js.map": "/tossgame/static/js/main.d225bee2.chunk.js.map",
+    "runtime~main.js": "/tossgame/static/js/runtime~main.842ac6b5.js",
+    "runtime~main.js.map": "/tossgame/static/js/runtime~main.842ac6b5.js.map",
+    "static/js/2.8a586615.chunk.js": "/tossgame/static/js/2.8a586615.chunk.js",
+    "static/js/2.8a586615.chunk.js.map": "/tossgame/static/js/2.8a586615.chunk.js.map",
+    "index.html": "/tossgame/index.html",
+    "precache-manifest.ca28d7154d7315e04bd19af312ac47e6.js": "/tossgame/precache-manifest.ca28d7154d7315e04bd19af312ac47e6.js",
+    "service-worker.js": "/tossgame/service-worker.js",
+    "static/css/main.f9b02786.chunk.css.map": "/tossgame/static/css/main.f9b02786.chunk.css.map"
+  }
+}
